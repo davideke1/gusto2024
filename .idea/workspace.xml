@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1018fb9-cfac-4138-a50d-1439a1b96439" name="Changes" comment="django version change in requirements.txt">
+    <list default="true" id="a1018fb9-cfac-4138-a50d-1439a1b96439" name="Changes" comment="change of python version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <updated>1707812144929</updated>
       <workItem from="1707812146460" duration="1269000" />
       <workItem from="1708404765468" duration="10228000" />
-      <workItem from="1708618808979" duration="1823000" />
+      <workItem from="1708618808979" duration="3193000" />
     </task>
     <task id="LOCAL-00001" summary="django version change in requirements.txt">
       <created>1708618927866</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708619302709</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change of python version">
+      <created>1708620972731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708620972731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="django version change in requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="django version change in requirements.txt" />
+    <MESSAGE value="change of python version" />
+    <option name="LAST_COMMIT_MESSAGE" value="change of python version" />
   </component>
 </project>
